@@ -1,0 +1,12 @@
+obj
+bin
+Bin
+Obj
+Build
+Documentation
+*.suo
+*.csproj.user
+_Resharper.*
+_ReSharper.*
+*.ReSharper.user
+SilverlightDrawing.Web/ClientBin/SilverlightDrawing.xap

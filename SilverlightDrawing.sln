@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightDrawing", "SilverlightDrawing\SilverlightDrawing.csproj", "{6730A9D2-1961-4B94-BB13-AC3B8E90BD4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightDrawing.Web", "SilverlightDrawing.Web\SilverlightDrawing.Web.csproj", "{2D5C79A1-FC0A-48D3-A620-9BA87EFC9BBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightDrawing.Tests", "SilverlightDrawing.Tests\SilverlightDrawing.Tests.csproj", "{D693D09E-66B5-4F78-B90B-C5854A54A07D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6730A9D2-1961-4B94-BB13-AC3B8E90BD4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6730A9D2-1961-4B94-BB13-AC3B8E90BD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6730A9D2-1961-4B94-BB13-AC3B8E90BD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6730A9D2-1961-4B94-BB13-AC3B8E90BD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5C79A1-FC0A-48D3-A620-9BA87EFC9BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5C79A1-FC0A-48D3-A620-9BA87EFC9BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5C79A1-FC0A-48D3-A620-9BA87EFC9BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5C79A1-FC0A-48D3-A620-9BA87EFC9BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D693D09E-66B5-4F78-B90B-C5854A54A07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D693D09E-66B5-4F78-B90B-C5854A54A07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D693D09E-66B5-4F78-B90B-C5854A54A07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D693D09E-66B5-4F78-B90B-C5854A54A07D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
